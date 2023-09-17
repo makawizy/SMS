@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\user"
+    "\\user",
+    "\\user\\salaya-sms"
   ],
-  "SelectedNode": "\\user",
+  "SelectedNode": "\\user\\salaya-sms\\next.config.js",
   "PreviewInSolutionExplorer": false
 }
